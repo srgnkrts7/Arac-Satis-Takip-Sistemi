@@ -1,4 +1,4 @@
-# Araç Satış Takip Sistemi
+# Vehicle Sales Tracking Application
 
 Projenin genel amacı sistemde kayıtlı bulunan araçların satımının takip edilmesini sağlamaktır. Kullanıcılar belirli araçları satın almakta ve diğer kullanıcılar tarafından satın alınan arabaları görebilmektedir.Sistem genel olarak araçları ve araçların hangi kullanıcılara satıldığını takip etme hedefindedir. 
 
